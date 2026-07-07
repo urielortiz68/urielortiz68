@@ -30,6 +30,10 @@ Building scalable web applications, AI-powered products, and cloud-native system
 
 ---
 
+<div align="center">
+
 *"Building software that solves real-world problems."*
+
+</div>
 
 </div>
