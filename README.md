@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Oleh Dubyk
+# 👋 Hi, I'm Uriel Ortiz
 
 ### Senior Full-Stack Software Engineer • AI Engineer • Cloud Architect
 
